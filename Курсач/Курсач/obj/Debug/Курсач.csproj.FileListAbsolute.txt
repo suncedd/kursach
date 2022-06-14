@@ -1,0 +1,12 @@
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\bin\Debug\Курсач.exe
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\bin\Debug\Курсач.pdb
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\obj\Debug\Курсач.csproj.SuggestedBindingRedirects.cache
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\obj\Debug\Курсач.Form1.resources
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\obj\Debug\Курсач.exe
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\obj\Debug\Курсач.pdb
+C:\Users\everl\OneDrive\Рабочий стол\Курсач\Курсач\obj\Debug\Курсач.Админ.resources
